@@ -312,6 +312,7 @@ section {
     height: 400px;
     width: 400px;
     margin: auto 0;
+
 }
 
 /* EXPERIENCE SECTION */
@@ -418,4 +419,15 @@ article .icon {
 
 .email-icon {
     height: 2.5rem;
+}
+
+/* FOOTER SECTION */
+
+footer {
+    height: 26vh;
+    margin: 0 1rem;
+}
+
+footer p {
+    text-align: center;
 }
